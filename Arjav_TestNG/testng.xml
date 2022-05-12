@@ -3,7 +3,11 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Arjav_TestNG.Arjav_TestNG.AppTest"/>
+      <class name="testcases.listTest2"/>
+      <class name="testcases.button5ClickAssert"/>
+      <class name="testcases.SampleLogin"/>
+      <class name="testcases.dropownTest3"/>
+      <class name="testcases.test4Button"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

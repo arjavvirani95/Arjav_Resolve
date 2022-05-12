@@ -14,7 +14,7 @@ public class SampleLogin extends TestBase {
 	
 	public SampleLogin() throws Throwable{
 		super(); 
-		//calling super class constructor which is TestBase class constructor
+		//calling super class constructor which is TestBase class constructor(Arjav)
 	}
 	
 	@BeforeMethod

@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-05-11T19:41:48 EDT" name="Default suite" finished-at="2022-05-11T19:41:54 EDT" duration-ms="6055">
+  <suite started-at="2022-05-11T20:08:22 EDT" name="Default suite" finished-at="2022-05-11T20:08:27 EDT" duration-ms="4498">
     <groups>
     </groups>
-    <test started-at="2022-05-11T19:41:48 EDT" name="Default test" finished-at="2022-05-11T19:41:54 EDT" duration-ms="6055">
-      <class name="testcases.dropownTest3">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.dropownTest3@645aa696]" started-at="2022-05-11T19:41:48 EDT" name="setUp" finished-at="2022-05-11T19:41:54 EDT" duration-ms="5507" status="PASS">
+    <test started-at="2022-05-11T20:08:22 EDT" name="Default test" finished-at="2022-05-11T20:08:27 EDT" duration-ms="4498">
+      <class name="testcases.SampleLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SampleLogin@16eb3ea3]" started-at="2022-05-11T20:08:22 EDT" name="setUp" finished-at="2022-05-11T20:08:27 EDT" duration-ms="4346" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="opt3Sel()[pri:0, instance:testcases.dropownTest3@645aa696]" started-at="2022-05-11T19:41:54 EDT" name="opt3Sel" finished-at="2022-05-11T19:41:54 EDT" duration-ms="519" status="PASS">
+        <test-method signature="loginTest()[pri:0, instance:testcases.SampleLogin@16eb3ea3]" started-at="2022-05-11T20:08:27 EDT" name="loginTest" finished-at="2022-05-11T20:08:27 EDT" duration-ms="122" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- opt3Sel -->
-      </class> <!-- testcases.dropownTest3 -->
+        </test-method> <!-- loginTest -->
+      </class> <!-- testcases.SampleLogin -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
